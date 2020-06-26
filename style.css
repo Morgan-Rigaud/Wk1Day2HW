@@ -1,0 +1,24 @@
+h1{
+    color: 615D6C;
+    margin-top: 0;
+    font-size: 70px;
+    margin-bottom: 25px;
+}
+
+h2{
+    color: 6F8AB7;
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+img{
+    width: 200px;
+    border: 1px 615D6C;
+}
+
+ul{
+    list-style-type: none;
+    font-size: 15px;
+}
